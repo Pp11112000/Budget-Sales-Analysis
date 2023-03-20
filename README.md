@@ -59,7 +59,7 @@ The goal of this project is to analysis the sales budget data, extract necessary
 
 ### Documentation
 
-[High Level Documentation]()
+[High Level Documentation](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/HLD%20(High%20Level%20Design).pdf)
 
 [Low Level Documentation]()
 
