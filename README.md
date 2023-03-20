@@ -56,3 +56,15 @@ The goal of this project is to analysis the sales budget data, extract necessary
 - According to the customer segmentation approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients.
 - Client retention in 2014 was subpar.
 - 2016 brought about a slight improvement in retention.
+
+### Documentation
+
+[High Level Documentation]()
+
+[Low Level Documentation]()
+
+[Architecture Documentation]()
+
+[WireFrame]()
+
+[Detail Project Report]()
