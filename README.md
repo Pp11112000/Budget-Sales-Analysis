@@ -67,4 +67,4 @@ The goal of this project is to analysis the sales budget data, extract necessary
 
 [WireFrame](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/Wireframe%20Document.pdf)
 
-[Detail Project Report]()
+[Detail Project Report](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/Detailed%20Project%20Report.pdf)
