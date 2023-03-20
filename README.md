@@ -63,7 +63,7 @@ The goal of this project is to analysis the sales budget data, extract necessary
 
 [Low Level Documentation](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/LLD%20(Low%20Level%20Design).pdf)
 
-[Architecture Documentation]()
+[Architecture Documentation](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/Architecture%20Design.pdf)
 
 [WireFrame]()
 
