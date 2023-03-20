@@ -65,6 +65,6 @@ The goal of this project is to analysis the sales budget data, extract necessary
 
 [Architecture Documentation](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/Architecture%20Design.pdf)
 
-[WireFrame]()
+[WireFrame](https://github.com/Pp11112000/Budget-Sales-Analysis/blob/main/Documentation/Wireframe%20Document.pdf)
 
 [Detail Project Report]()
