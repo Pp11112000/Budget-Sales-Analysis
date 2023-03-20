@@ -4,7 +4,9 @@
 
 ### Dashboard links
 
+Novypro Dashnoard: https://www.novypro.com/project/budget-sales-analysis
 
+Power BI Service: https://app.powerbi.com/view?r=eyJrIjoiYjE0N2I5MDQtY2JmMS00OTI0LThhMjctMzQ1MDY3NTZlMDhkIiwidCI6ImNjOTdlOGYzLTk0MjYtNDUzNi04ZDY4LWU2NTFlM2Q4MmQwZiJ9
 
 ### Project Details
 
