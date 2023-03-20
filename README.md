@@ -2,6 +2,8 @@
 
 ### Demo
 
+https://user-images.githubusercontent.com/95831940/226423770-4d00601b-ddc6-49c3-a1c5-16d7b6bf1ceb.mp4
+
 ### Dashboard links
 
 Novypro Dashnoard: https://www.novypro.com/project/budget-sales-analysis
