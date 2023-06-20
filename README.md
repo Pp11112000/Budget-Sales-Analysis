@@ -20,6 +20,8 @@ Power BI Service: https://app.powerbi.com/view?r=eyJrIjoiYjE0N2I5MDQtY2JmMS00OTI
 
 - __Programming Language Used__: Python
 
+- __Python Libraries Used__: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Datetime, Jovian
+
 - __Tools Used__: Jupyter Notebook, MS-Excel, Power BI
 
 ### Project Introduction
